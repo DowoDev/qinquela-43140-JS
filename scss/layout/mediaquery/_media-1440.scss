@@ -1,0 +1,156 @@
+@media screen and (min-width: 1440px) {
+
+  header {
+    .navigation {
+      height: 5.3125rem;
+      transition: all 0.5s;
+      .logo{
+        width: 46.875rem;
+        a {
+          width: 3.8rem;
+          transition: all 0.5s;
+    
+          img {
+            width: 2.3rem;
+            transition: all 0.5s;
+          }
+        }
+        .marca{
+          font-size: 1.8125rem;
+        }
+      }
+      .nav-menu {
+        
+        li {
+          a {
+            font-weight: 500;
+            font-size: 1.5625rem;
+            transition: all 0.4s;
+          }
+        }
+      }
+    } 
+  }
+  .main-index{
+    .main__titulo {
+      grid-column: 1 / 3;
+      h1 {
+        font-size: 3.8125rem;
+      }
+    }
+    .main__presentacion {
+      grid-column: 1 / 3;
+      grid-row: 2 / 5;
+      p {
+      font-size: 2.1rem;
+      }
+    }
+    .hero {
+      grid-column: 3 / 4;
+      grid-row: 1 / 2;
+      align-self: center;
+      .cup{
+        img {
+          width: 25rem;
+        }
+      }
+    }
+    .main__botones {
+      grid-column: 1 / 3;
+      grid-row: 4 / 4;
+      align-items: flex-end;
+    }
+  }
+  .main__nos {
+    grid-template-rows: repeat(6, 9.375rem);
+    .main__titulo--nos {
+      grid-column: 1 / 3;
+      h3 {
+        font-size: 2.8125rem;
+        transition: all 0.5s;
+      }
+    }
+    .main__texto {
+      grid-column: 1 / 3;
+      grid-row: 2 / 5; 
+      p {
+      font-size: 1.4375rem;
+      }
+    }
+    .team {
+      grid-column: 3/ 5;
+      grid-row: 1 / 8;
+    }
+  }
+  .main__productos{
+    .grupo-prod{
+      .cards-style{
+        .cards-cafe{
+          .cards-body{
+            h2 {
+              margin: 0 0 1.125rem 0;
+              font-size: 1.5625rem;
+            }
+            button {
+              height: 100%;
+              font-size: 1.4375rem;
+              padding: 1.1875rem 1.8125rem;
+              transition: all 0.5s;
+            }
+          }
+        }
+      }
+    }
+  }
+  footer {
+
+    .menu-x {
+      li {
+        a {
+          font-size: 1.5rem;
+          transition: all 0.5s;
+        }
+      }
+    }
+ 
+    .etiquetas {
+      grid-column: 3 / 5;
+      grid-row: 3 / 3;
+    }
+  
+    .newsletter {
+      height: 2.6875rem;
+      justify-self: flex-end;
+      justify-content: flex-start;
+      transition: all 0.5s;
+      .subs {
+        margin-left: .375rem;
+        font-size: 1.2rem;
+        justify-content: flex-start;
+        transition: all 0.5s;
+      }
+  
+      .input-container {
+        border-radius: .4rem;
+        height: 2.625rem;
+        width: 100%;
+
+        transition: all 0.5s;
+        input {
+          font-size: .875rem;
+          transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+      }
+    }
+  
+    .me {
+      grid-column: 2 / 3;
+      grid-row: 3/3;
+      transition: all 0.5s;
+      a img {
+        height: 1.5rem;
+        transition: all 0.5s;
+      }
+     }
+  }
+}

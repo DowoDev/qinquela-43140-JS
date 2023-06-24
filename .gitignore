@@ -1,0 +1,10 @@
+.vscode/
+backup/
+/css/styles_original.css
+/css/test.css
+/pages/test.html
+node_modules/
+package.json
+package-lock.json
+blackbox.txt
+/README.md

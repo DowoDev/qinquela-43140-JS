@@ -1,0 +1,88 @@
+body {
+  background: $background-body;
+  color: $font-color-main;
+  font-family: $poppins;
+  position: relative;
+}
+body::-webkit-scrollbar {
+  width: 1rem;
+}
+
+body::-webkit-scrollbar-track {
+  background-color: #3a3a3a8f;
+  border-radius: 6.25rem;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: $pink-soft;
+  border-radius: .3125rem;
+}
+html {
+  scroll-behavior: smooth;
+}
+.index,
+.nosotros,
+.productos,
+.galeria,
+.contacto {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
+  @include grid (none,5.3125rem 1fr 21.8125rem,none,none,none);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  text-decoration: none;
+  list-style: none;
+}
+
+.index {
+  background-image: $bg_index;
+}
+
+.nosotros {
+  @include grid (none,5.3125rem auto-fill 21.8125rem,none,none,none);
+  background-image: $bg_nosotros;
+}
+
+.productos {
+  background-image: $bg_productos;
+}
+
+.galeria {
+  background-image: $bg_galeria;
+}
+
+.contacto {
+  background-image: $bg_contacto;
+}
+
+.arrow{
+  width: 3.125rem;
+  position: fixed;
+  bottom: 1.875rem;
+  left: .625rem;
+  z-index: 9;
+  
+  a{
+    display: block;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    -webkit-background-clip: border-box;
+    background-clip: border-box;
+    background: #00000083;
+    backdrop-filter: blur(.0625rem);
+    font-family: $poppins;
+    font-size: .9375rem;
+    font-weight: 700;
+    -webkit-text-fill-color: $font-color-main;
+    color: $font-color-main;
+    border: .0625rem solid $yellow;
+    border-radius: 1.125rem 1.125rem 1.125rem .3125rem;
+    filter: drop-shadow(0rem .0625rem .0625rem $yellow'83');
+    transition: 0.3s;
+  }
+}
+

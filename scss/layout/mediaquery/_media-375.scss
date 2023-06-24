@@ -1,0 +1,31 @@
+@media screen and (min-width: 375px) {
+  header{
+    .navigation{
+      .marca{
+        font-size: 1rem;
+        transition: all 0.5s;
+      }
+    }
+  }
+  .main__nos{
+    .team {
+      grid-row: 7 / 11;
+      transition: all 0.5s;
+    }
+  }
+  .main__productos{
+    .grupo-prod{
+      .cards-style{
+        .cards-cafe{
+          .cards-body{
+            button {
+              font-size: 1.1875rem;
+              padding: 1rem 4.375rem;
+              transition: all 0.5s;
+            }
+          }
+        }
+      }
+    }
+  }
+}
