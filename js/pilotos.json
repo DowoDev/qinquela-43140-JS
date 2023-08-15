@@ -19,7 +19,7 @@
           "dateOfBirth": "1996-03-23",
           "nationality": "Thai",
           "country":"Thailand",
-          "countryPic": "../assets/img/infoPilotos/Thai.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Thai.png",
           "grands_prix_entered": 72,
           "world_championships": 0,
           "podiums": 2,
@@ -28,9 +28,9 @@
           "season": "2022-HOY",
           "teamid": "W",
           "name": "Williams Racing",
-          "logo": "../assets/img/infoPilotos/W.png",
-          "pic": "../assets/img/infoPilotos/23.png",
-          "picNumber": "../assets/img/infoPilotos/23n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/W.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/23.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/23n.png"
         },
         {
           "driverId": "alonso",
@@ -42,7 +42,7 @@
           "dateOfBirth": "1981-07-29",
           "nationality": "Spanish",
           "country":"Spain",
-          "countryPic": "../assets/img/infoPilotos/Spanish.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Spanish.png",
           "grands_prix_entered": 370,
           "world_championships": 2,
           "podiums": 104,
@@ -51,9 +51,9 @@
           "season": "2023",
           "teamid": "AM",
           "name": "Aston Martin F1",
-          "logo": "../assets/img/infoPilotos/AM.png",
-          "pic": "../assets/img/infoPilotos/14.png",
-          "picNumber": "../assets/img/infoPilotos/14n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AM.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/14.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/14n.png"
         },
         {
           "driverId": "bottas",
@@ -65,7 +65,7 @@
           "dateOfBirth": "1989-08-28",
           "nationality": "Finnish",
           "country":"Finland",
-          "countryPic": "../assets/img/infoPilotos/Finish.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Finish.png",
           "grands_prix_entered": 213,
           "world_championships": 0,
           "podiums": 67,
@@ -74,9 +74,9 @@
           "season": "2022-HOY",
           "teamid": "AR",
           "name": "Alfa Romeo F1",
-          "logo": "../assets/img/infoPilotos/AR.png",
-          "pic": "../assets/img/infoPilotos/77.png",
-          "picNumber": "../assets/img/infoPilotos/77n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AR.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/77.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/77n.png"
         },
         {
           "driverId": "de_vries",
@@ -88,7 +88,7 @@
           "dateOfBirth": "1995-02-06",
           "nationality": "Dutch",
           "country":"Netherlands",
-          "countryPic": "../assets/img/infoPilotos/Dutch.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Dutch.png",
           "grands_prix_entered": 11,
           "world_championships": 0,
           "podiums": 0,
@@ -97,9 +97,9 @@
           "season": "2023",
           "teamid": "AT",
           "name": "Alpha Tauri",
-          "logo": "../assets/img/infoPilotos/AT.png",
-          "pic": "../assets/img/infoPilotos/21.png",
-          "picNumber": "../assets/img/infoPilotos/21n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AT.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/21.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/21n.png"
         },
         {
           "driverId": "gasly",
@@ -111,7 +111,7 @@
           "dateOfBirth": "1996-02-07",
           "nationality": "French",
           "country":"France",
-          "countryPic": "../assets/img/infoPilotos/French.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/French.png",
           "grands_prix_entered": 120,
           "world_championships": 0,
           "podiums": 3,
@@ -120,9 +120,9 @@
           "season": "2023",
           "teamid": "ALP",
           "name": "Alpine F1 Team",
-          "logo": "../assets/img/infoPilotos/ALP.png",
-          "pic": "../assets/img/infoPilotos/10.png",
-          "picNumber": "../assets/img/infoPilotos/10n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/ALP.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/10.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/10n.png"
         },
         {
           "driverId": "hamilton",
@@ -134,7 +134,7 @@
           "dateOfBirth": "1985-01-07",
           "nationality": "British",
           "country":"United Kingdom",
-          "countryPic": "../assets/img/infoPilotos/British.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/British.png",
           "grands_prix_entered": 322,
           "world_championships": 7,
           "podiums": 195,
@@ -143,9 +143,9 @@
           "season": "2013-HOY",
           "teamid": "MB",
           "name": "Mercedes-AMG Petronas",
-          "logo": "../assets/img/infoPilotos/MB.png",
-          "pic": "../assets/img/infoPilotos/44.png",
-          "picNumber": "../assets/img/infoPilotos/44n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MB.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/44.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/44n.png"
         },
         {
           "driverId": "hulkenberg",
@@ -157,7 +157,7 @@
           "dateOfBirth": "1987-08-19",
           "nationality": "German",
           "country":"Germany",
-          "countryPic": "../assets/img/infoPilotos/German.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/German.png",
           "grands_prix_entered": 530,
           "world_championships": 0,
           "podiums": 0,
@@ -166,9 +166,9 @@
           "season": "2023",
           "teamid": "HAS",
           "name": "Hass",
-          "logo": "../assets/img/infoPilotos/HAS.png",
-          "pic": "../assets/img/infoPilotos/27.png",
-          "picNumber": "../assets/img/infoPilotos/27n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/HAS.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/27.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/27n.png"
         },
         {
           "driverId": "leclerc",
@@ -180,7 +180,7 @@
           "dateOfBirth": "1997-10-16",
           "nationality": "Monegasque",
           "country":"Monaco",
-          "countryPic": "../assets/img/infoPilotos/Monegasque.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Monegasque.png",
           "grands_prix_entered": 114,
           "world_championships": 0,
           "podiums": 27,
@@ -189,9 +189,9 @@
           "season": "2019-HOY",
           "teamid": "FER",
           "name": "Scuderia Ferrari",
-          "logo": "../assets/img/infoPilotos/FER.png",
-          "pic": "../assets/img/infoPilotos/16.png",
-          "picNumber": "../assets/img/infoPilotos/16n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/FER.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/16.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/16n.png"
         },
         {
           "driverId": "kevin_magnussen",
@@ -203,7 +203,7 @@
           "dateOfBirth": "1992-10-05",
           "nationality": "Danish",
           "country":"Denmark",
-          "countryPic": "../assets/img/infoPilotos/Danish.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Danish.png",
           "grands_prix_entered": 153,
           "world_championships": 0,
           "podiums": 1,
@@ -212,9 +212,9 @@
           "season": "2023",
           "teamid": "HAS",
           "name": "Hass",
-          "logo": "../assets/img/infoPilotos/HAS.png",
-          "pic": "../assets/img/infoPilotos/20.png",
-          "picNumber": "../assets/img/infoPilotos/20n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/HAS.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/20.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/20n.png"
         },
         {
           "driverId": "norris",
@@ -226,7 +226,7 @@
           "dateOfBirth": "1999-11-13",
           "nationality": "British",
           "country":"United Kingdom",
-          "countryPic": "../assets/img/infoPilotos/British.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/British.png",
           "grands_prix_entered": 94,
           "world_championships": 0,
           "podiums": 8,
@@ -235,9 +235,9 @@
           "season": "2019-HOY",
           "teamid": "MCL",
           "name": "McLaren F1 Team",
-          "logo": "../assets/img/infoPilotos/MCL.png",
-          "pic": "../assets/img/infoPilotos/4.png",
-          "picNumber": "../assets/img/infoPilotos/4n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MCL.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/4.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/4n.png"
         },
         {
           "driverId": "ocon",
@@ -249,7 +249,7 @@
           "dateOfBirth": "1996-09-17",
           "nationality": "French",
           "country":"France",
-          "countryPic": "../assets/img/infoPilotos/French.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/French.png",
           "grands_prix_entered": 399,
           "world_championships": 0,
           "podiums": 3,
@@ -258,9 +258,9 @@
           "season": "2021-HOY",
           "teamid": "ALP",
           "name": "Alpine F1 Team",
-          "logo": "../assets/img/infoPilotos/ALP.png",
-          "pic": "../assets/img/infoPilotos/31.png",
-          "picNumber": "../assets/img/infoPilotos/31n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/ALP.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/31.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/31n.png"
         },
         {
           "driverId": "perez",
@@ -272,7 +272,7 @@
           "dateOfBirth": "1990-01-26",
           "nationality": "Mexican",
           "country":"Mexico",
-          "countryPic": "../assets/img/infoPilotos/Mexican.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Mexican.png",
           "grands_prix_entered": 247,
           "world_championships": 0,
           "podiums": 33,
@@ -281,9 +281,9 @@
           "season": "2021-HOY",
           "teamid": "RB",
           "name": "RedBull Racing",
-          "logo": "../assets/img/infoPilotos/RB.png",
-          "pic": "../assets/img/infoPilotos/11.png",
-          "picNumber": "../assets/img/infoPilotos/11n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/RB.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/11.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/11n.png"
         },
         {
           "driverId": "piastri",
@@ -295,7 +295,7 @@
           "dateOfBirth": "2001-04-06",
           "nationality": "Australian",
           "country":"Australia",
-          "countryPic": "../assets/img/infoPilotos/Australian.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Australian.png",
           "grands_prix_entered": 12,
           "world_championships": 0,
           "podiums": 0,
@@ -304,9 +304,9 @@
           "season": "2023",
           "teamid": "MCL",
           "name": "McLaren F1 Team",
-          "logo": "../assets/img/infoPilotos/MCL.png",
-          "pic": "../assets/img/infoPilotos/81.png",
-          "picNumber": "../assets/img/infoPilotos/81n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MCL.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/81.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/81n.png"
         },
         {
           "driverId": "ricciardo",
@@ -318,7 +318,7 @@
           "dateOfBirth": "1989-07-01",
           "nationality": "Australian",
           "country":"Australia",
-          "countryPic": "../assets/img/infoPilotos/Australian.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Australian.png",
           "grands_prix_entered": 234,
           "world_championships": 0,
           "podiums": 32,
@@ -327,9 +327,9 @@
           "season": "2023",
           "teamid": "AT",
           "name": "Alpha Tauri",
-          "logo": "../assets/img/infoPilotos/AT.png",
-          "pic": "../assets/img/infoPilotos/3.png",
-          "picNumber": "../assets/img/infoPilotos/3n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AT.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/3.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/3n.png"
         },
         {
           "driverId": "russell",
@@ -341,7 +341,7 @@
           "dateOfBirth": "1998-02-15",
           "nationality": "British",
           "country":"United Kingdom",
-          "countryPic": "../assets/img/infoPilotos/British.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/British.png",
           "grands_prix_entered": 94,
           "world_championships": 0,
           "podiums": 10,
@@ -350,9 +350,9 @@
           "season": "2022-HOY",
           "teamid": "MB",
           "name": "Mercedes-AMG Petronas",
-          "logo": "../assets/img/infoPilotos/MCL.png",
-          "pic": "../assets/img/infoPilotos/63.png",
-          "picNumber": "../assets/img/infoPilotos/63n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MCL.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/63.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/63n.png"
         },
         {
           "driverId": "sainz",
@@ -364,7 +364,7 @@
           "dateOfBirth": "1994-09-01",
           "nationality": "Spanish",
           "country":"Spain",
-          "countryPic": "../assets/img/infoPilotos/Spanish.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Spanish.png",
           "grands_prix_entered": 174,
           "world_championships": 0,
           "podiums": 15,
@@ -373,9 +373,9 @@
           "season": "2021-HOY",
           "teamid": "FER",
           "name": "Scuderia Ferrari",
-          "logo": "../assets/img/infoPilotos/FER.png",
-          "pic": "../assets/img/infoPilotos/55.png",
-          "picNumber": "../assets/img/infoPilotos/55n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/FER.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/55.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/55n.png"
         },
         {
           "driverId": "sargeant",
@@ -387,7 +387,7 @@
           "dateOfBirth": "2000-12-31",
           "nationality": "American",
           "country":"United States",
-          "countryPic": "../assets/img/infoPilotos/American.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/American.png",
           "grands_prix_entered": 12,
           "world_championships": 0,
           "podiums": 0,
@@ -396,9 +396,9 @@
           "season": "2023",
           "teamid": "W",
           "name": "Williams Racing",
-          "logo": "../assets/img/infoPilotos/W.png",
-          "pic": "../assets/img/infoPilotos/2.png",
-          "picNumber": "../assets/img/infoPilotos/2n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/W.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/2.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/2n.png"
         },
         {
           "driverId": "stroll",
@@ -410,7 +410,7 @@
           "dateOfBirth": "1998-10-29",
           "nationality": "Canadian",
           "country":"Canada",
-          "countryPic": "../assets/img/infoPilotos/Canadian.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Canadian.png",
           "grands_prix_entered": 134,
           "world_championships": 0,
           "podiums": 3,
@@ -419,9 +419,9 @@
           "season": "2021-HOY",
           "teamid": "AM",
           "name": "Aston Martin F1",
-          "logo": "../assets/img/infoPilotos/AM.png",
-          "pic": "../assets/img/infoPilotos/18.png",
-          "picNumber": "../assets/img/infoPilotos/18n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AM.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/18.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/18n.png"
         },
         {
           "driverId": "tsunoda",
@@ -433,7 +433,7 @@
           "dateOfBirth": "2000-05-11",
           "nationality": "Japanese",
           "country":"Japan",
-          "countryPic": "../assets/img/infoPilotos/Japanese.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Japanese.png",
           "grands_prix_entered": 54,
           "world_championships": 0,
           "podiums": 0,
@@ -442,9 +442,9 @@
           "season": "2021-HOY",
           "teamid": "AT",
           "name": "Alpha Tauri",
-          "logo": "../assets/img/infoPilotos/AT.png",
-          "pic": "../assets/img/infoPilotos/22.png",
-          "picNumber": "../assets/img/infoPilotos/22n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AT.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/22.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/22n.png"
         },
         {
           "driverId": "max_verstappen",
@@ -456,7 +456,7 @@
           "dateOfBirth": "1997-09-30",
           "nationality": "Dutch",
           "country":"Netherlands",
-          "countryPic": "../assets/img/infoPilotos/Dutch.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Dutch.png",
           "grands_prix_entered": 175,
           "world_championships": 2,
           "podiums": 89,
@@ -465,9 +465,9 @@
           "season": "2016-HOY",
           "teamid": "RB",
           "name": "RedBull Racing",
-          "logo": "../assets/img/infoPilotos/RB.png",
-          "pic": "../assets/img/infoPilotos/33.png",
-          "picNumber": "../assets/img/infoPilotos/33n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/RB.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/33.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/33n.png"
         },
         {
           "driverId": "zhou",
@@ -479,7 +479,7 @@
           "dateOfBirth": "1999-05-30",
           "nationality": "Chinese",
           "country":"China",
-          "countryPic": "../assets/img/infoPilotos/Chinese.png",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/Chinese.png",
           "grands_prix_entered": 34,
           "world_championships": 0,
           "podiums": 0,
@@ -488,9 +488,9 @@
           "season": "2022-HOY",
           "teamid": "AR",
           "name": "Hass",
-          "logo": "../assets/img/infoPilotos/AR.png",
-          "pic": "../assets/img/infoPilotos/24.png",
-          "picNumber": "../assets/img/infoPilotos/24n.png"
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AR.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24n.png"
         }
       ]
     }
