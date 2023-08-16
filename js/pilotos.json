@@ -30,7 +30,8 @@
           "name": "Williams Racing",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/W.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/23.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/23n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/23n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/23h.png"
         },
         {
           "driverId": "alonso",
@@ -53,7 +54,8 @@
           "name": "Aston Martin F1",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AM.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/14.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/14n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/14n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/14h.png"
         },
         {
           "driverId": "bottas",
@@ -76,7 +78,8 @@
           "name": "Alfa Romeo F1",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AR.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/77.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/77n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/77n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/77h.png"
         },
         {
           "driverId": "de_vries",
@@ -99,7 +102,8 @@
           "name": "Alpha Tauri",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AT.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/21.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/21n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/21n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/21h.png"
         },
         {
           "driverId": "gasly",
@@ -122,7 +126,8 @@
           "name": "Alpine F1 Team",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/ALP.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/10.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/10n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/10n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/10h.png"
         },
         {
           "driverId": "hamilton",
@@ -145,7 +150,8 @@
           "name": "Mercedes-AMG Petronas",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MB.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/44.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/44n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/44n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/44h.png"
         },
         {
           "driverId": "hulkenberg",
@@ -168,7 +174,8 @@
           "name": "Hass",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/HAS.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/27.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/27n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/27n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/27h.png"
         },
         {
           "driverId": "leclerc",
@@ -191,7 +198,8 @@
           "name": "Scuderia Ferrari",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/FER.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/16.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/16n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/16n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/16h.png"
         },
         {
           "driverId": "kevin_magnussen",
@@ -214,7 +222,8 @@
           "name": "Hass",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/HAS.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/20.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/20n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/20n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/20h.png"
         },
         {
           "driverId": "norris",
@@ -237,7 +246,8 @@
           "name": "McLaren F1 Team",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MCL.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/4.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/4n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/4n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/4h.png"
         },
         {
           "driverId": "ocon",
@@ -260,7 +270,8 @@
           "name": "Alpine F1 Team",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/ALP.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/31.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/31n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/31n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/31h.png"
         },
         {
           "driverId": "perez",
@@ -283,7 +294,8 @@
           "name": "RedBull Racing",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/RB.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/11.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/11n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/11n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/11h.png"
         },
         {
           "driverId": "piastri",
@@ -306,7 +318,8 @@
           "name": "McLaren F1 Team",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MCL.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/81.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/81n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/81n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/81h.png"
         },
         {
           "driverId": "ricciardo",
@@ -329,7 +342,8 @@
           "name": "Alpha Tauri",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AT.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/3.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/3n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/3n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/3h.png"
         },
         {
           "driverId": "russell",
@@ -352,7 +366,8 @@
           "name": "Mercedes-AMG Petronas",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/MCL.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/63.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/63n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/63n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/63h.png"
         },
         {
           "driverId": "sainz",
@@ -375,7 +390,8 @@
           "name": "Scuderia Ferrari",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/FER.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/55.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/55n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/55n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/55h.png"
         },
         {
           "driverId": "sargeant",
@@ -398,7 +414,8 @@
           "name": "Williams Racing",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/W.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/2.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/2n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/2n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/2h.png"
         },
         {
           "driverId": "stroll",
@@ -421,7 +438,8 @@
           "name": "Aston Martin F1",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AM.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/18.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/18n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/18n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/18h.png"
         },
         {
           "driverId": "tsunoda",
@@ -444,7 +462,8 @@
           "name": "Alpha Tauri",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AT.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/22.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/22n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/22n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/22h.png"
         },
         {
           "driverId": "max_verstappen",
@@ -467,7 +486,8 @@
           "name": "RedBull Racing",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/RB.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/33.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/33n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/33n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/33h.png"
         },
         {
           "driverId": "zhou",
@@ -490,7 +510,8 @@
           "name": "Hass",
           "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AR.png",
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24.png",
-          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24n.png"
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24h.png"
         }
       ]
     }
