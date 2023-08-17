@@ -12,7 +12,7 @@
         {
           "season": "2023",
           "round": "1",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Bahrain_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Bar%C3%A9in",
           "raceName": "Bahrain Grand Prix",
           "Circuit": {
             "circuitId": "bahrain",
@@ -26,31 +26,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-03-05",
-          "time": "15:00:00Z",
-          "FirstPractice": {
-            "date": "2023-03-03",
-            "time": "11:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-03-03",
-            "time": "15:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-03-04",
-            "time": "11:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-03-04",
-            "time": "15:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "2",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Saudi_Arabian_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Arabia_Saudita",
           "raceName": "Saudi Arabian Grand Prix",
           "Circuit": {
             "circuitId": "jeddah",
@@ -59,31 +41,13 @@
             "Location": {
               "locality": "Jeddah",
               "country": "Arabia Saudita"
-            },
-            "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
-            },
+            }            
           },
-          "date": "2023-03-19",
-          "time": "17:00:00Z",
-          "FirstPractice": {
-            "date": "2023-03-17",
-            "time": "13:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-03-17",
-            "time": "17:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-03-18",
-            "time": "13:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-03-18",
-            "time": "17:00:00Z"
-          },
+          "Values": {
+            "price1": "200",
+            "price2": "300",
+            "price3": "500"
+          }
         },
         {
           "season": "2023",
@@ -92,45 +56,27 @@
           "raceName": "Australian Grand Prix",
           "Circuit": {
             "circuitId": "albert_park",
-            "url": "https://es.wikipedia.org/wiki/Circuito_de_Albert_Park",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Melbourne_Grand_Prix_Circuit",
             "circuitName": "Albert Park Grand Prix Circuit",
             "Location": {
               "locality": "Melbourne",
               "country": "Australia"
-            },
-            "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
-            },
+            }            
           },
-          "date": "2023-04-02",
-          "time": "05:00:00Z",
-          "FirstPractice": {
-            "date": "2023-03-31",
-            "time": "01:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-03-31",
-            "time": "05:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-04-01",
-            "time": "01:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-04-01",
-            "time": "05:00:00Z"
-          },
+          "Values": {
+            "price1": "200",
+            "price2": "300",
+            "price3": "500"
+          }
         },
         {
           "season": "2023",
           "round": "4",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Azerbaijan_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Australia",
           "raceName": "Azerbaijan Grand Prix",
           "Circuit": {
             "circuitId": "baku",
-            "url": "https://es.wikipedia.org/wiki/Circuito_callejero_de_Bak%C3%BA",
+            "url": "https://es.wikipedia.org/wiki/Circuito_de_Albert_Park",
             "circuitName": "Baku City Circuit",
             "Location": {
               "locality": "Baku",
@@ -140,35 +86,17 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-04-30",
-          "time": "11:00:00Z",
-          "FirstPractice": {
-            "date": "2023-04-28",
-            "time": "09:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-04-28",
-            "time": "13:00:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-04-29",
-            "time": "09:30:00Z"
-          },
-          "Sprint": {
-            "date": "2023-04-29",
-            "time": "13:30:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "5",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Miami_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_de_Miami",
           "raceName": "Miami Grand Prix",
           "Circuit": {
             "circuitId": "miami",
-            "url": "https://es.wikipedia.org/wiki/Aut%C3%B3dromo_Internacional_de_Miami",
+            "url": "https://es.wikipedia.org/wiki/Circuito_callejero_de_Bak%C3%BA",
             "circuitName": "Miami International Autodrome",
             "Location": {
               "locality": "Miami",
@@ -178,31 +106,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-05-07",
-          "time": "19:30:00Z",
-          "FirstPractice": {
-            "date": "2023-05-05",
-            "time": "18:00:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-05-05",
-            "time": "21:30:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-05-06",
-            "time": "16:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-05-06",
-            "time": "20:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "6",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Monaco_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_M%C3%B3naco",
           "raceName": "Monaco Grand Prix",
           "Circuit": {
             "circuitId": "monaco",
@@ -216,31 +126,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-05-28",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-05-26",
-            "time": "11:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-05-26",
-            "time": "15:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-05-27",
-            "time": "10:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-05-27",
-            "time": "14:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "7",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Spanish_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Espa%C3%B1a",
           "raceName": "Spanish Grand Prix",
           "Circuit": {
             "circuitId": "catalunya",
@@ -254,31 +146,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-06-04",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-06-02",
-            "time": "11:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-06-02",
-            "time": "15:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-06-03",
-            "time": "10:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-06-03",
-            "time": "14:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "8",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Canadian_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Canad%C3%A1",
           "raceName": "Canadian Grand Prix",
           "Circuit": {
             "circuitId": "villeneuve",
@@ -292,31 +166,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-06-18",
-          "time": "18:00:00Z",
-          "FirstPractice": {
-            "date": "2023-06-16",
-            "time": "17:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-06-16",
-            "time": "21:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-06-17",
-            "time": "16:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-06-17",
-            "time": "20:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "9",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Austrian_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Austria",
           "raceName": "Austrian Grand Prix",
           "Circuit": {
             "circuitId": "red_bull_ring",
@@ -330,31 +186,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-07-02",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-06-30",
-            "time": "11:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-06-30",
-            "time": "15:00:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-07-01",
-            "time": "10:30:00Z"
-          },
-          "Sprint": {
-            "date": "2023-07-01",
-            "time": "14:30:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "10",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_British_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Gran_Breta%C3%B1a",
           "raceName": "British Grand Prix",
           "Circuit": {
             "circuitId": "silverstone",
@@ -368,31 +206,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-07-09",
-          "time": "14:00:00Z",
-          "FirstPractice": {
-            "date": "2023-07-07",
-            "time": "11:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-07-07",
-            "time": "15:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-07-08",
-            "time": "10:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-07-08",
-            "time": "14:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "11",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Hungarian_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Hungr%C3%ADa",
           "raceName": "Hungarian Grand Prix",
           "Circuit": {
             "circuitId": "hungaroring",
@@ -406,31 +226,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-07-23",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-07-21",
-            "time": "11:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-07-21",
-            "time": "15:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-07-22",
-            "time": "10:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-07-22",
-            "time": "14:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "12",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Belgian_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_B%C3%A9lgica",
           "raceName": "Belgian Grand Prix",
           "Circuit": {
             "circuitId": "spa",
@@ -444,31 +246,13 @@
               "price1": "200",
               "price2": "300",
               "price3": "500"
-            },
-          },
-          "date": "2023-07-30",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-07-28",
-            "time": "11:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-07-28",
-            "time": "15:00:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-07-29",
-            "time": "10:30:00Z"
-          },
-          "Sprint": {
-            "date": "2023-07-29",
-            "time": "14:30:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "13",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Dutch_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_los_Pa%C3%ADses_Bajos",
           "raceName": "Dutch Grand Prix",
           "Circuit": {
             "circuitId": "zandvoort",
@@ -481,38 +265,20 @@
             "Values": {
               "tribuna1": "Tribuna Arena 1 - Sáb & Dom",
               "price1": "635,00",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11307/91fc76b366d362984062af7398b9fc89.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11307/91fc76b366d362984062af7398b9fc89.jpg",
               "tribuna2": "Tribuna Eastside 3 - Sáb & Dom",
               "price2": "635,00",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11397/75d8df42de46960d320929dfc0cd93af.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11397/75d8df42de46960d320929dfc0cd93af.jpg",
               "tribuna3": "Ben Pon 1 - Vie, Sáb & Dom",
               "price3": "685,00",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/20357/8b2c8c522af16dae8b09eb4113931606.jpg"
-            },
-          },
-          "date": "2023-08-27",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-08-25",
-            "time": "10:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-08-25",
-            "time": "14:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-08-26",
-            "time": "09:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-08-26",
-            "time": "13:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "14",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Italian_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Italia",
           "raceName": "Italian Grand Prix",
           "Circuit": {
             "circuitId": "monza",
@@ -525,38 +291,20 @@
             "Values": {
               "tribuna1": "(6b) Alta Velocita B - Vie, Sáb & Dom",
               "price1": "650",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8665/1872993057d1e649ae6722cfe0c632fd.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8665/1872993057d1e649ae6722cfe0c632fd.jpg",
               "tribuna2": "(1) Centrale - Vie, Sáb & Dom",
               "price2": "1250",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8615/49d1b8ca5f15b258b45e8bbd4da57745.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8615/49d1b8ca5f15b258b45e8bbd4da57745.jpg",
               "tribuna3": "(16) Ascari - Vie, Sáb & Dom",
               "price3": "875",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/20357/8b2c8c522af16dae8b09eb4113931606.jpg"
-            },
-          },
-          "date": "2023-09-03",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-09-01",
-            "time": "11:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-09-01",
-            "time": "15:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-09-02",
-            "time": "10:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-09-02",
-            "time": "14:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "15",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Singapore_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Singapur",
           "raceName": "Singapore Grand Prix",
           "Circuit": {
             "circuitId": "marina_bay",
@@ -567,40 +315,22 @@
               "country": "Singapur"
             },
             "Values": {
-              "tribuna1": "Pit Exit Grandstand - Vie, Sab & Dom",
+             "tribuna1": "Pit Exit Grandstand - Vie, Sab & Dom",
               "price1": "980",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20657/7e42ee4aac6753b8483b4bf86e4648ac.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20657/7e42ee4aac6753b8483b4bf86e4648ac.jpg",
               "tribuna2": "Tribuna Pit - Front Rows - Vie, Sab & Dom",
               "price2": "990",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20367/53ee9a3649cfe69d66badcd34eb9e42a.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20367/53ee9a3649cfe69d66badcd34eb9e42a.jpg",
               "tribuna3": "Promenade - Vie, Sab & Dom",
               "price3": "840",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20707/8d375f338cb11c879ab6fb6fb5866ae4.jpg"
-            },
-          },
-          "date": "2023-09-17",
-          "time": "12:00:00Z",
-          "FirstPractice": {
-            "date": "2023-09-15",
-            "time": "09:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-09-15",
-            "time": "13:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-09-16",
-            "time": "09:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-09-16",
-            "time": "13:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "16",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Japanese_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Jap%C3%B3n",
           "raceName": "Japanese Grand Prix",
           "Circuit": {
             "circuitId": "suzuka",
@@ -613,38 +343,20 @@
             "Values": {
               "tribuna1": "Tribuna G - Overpass - Vie, Sáb & Dom",
               "price1": "650",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20537/1a6215b0a31158d4668e04d3c1159447.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20537/1a6215b0a31158d4668e04d3c1159447.jpg",
               "tribuna2": "Tribuna O - Temporary Stand - Vie, Sáb & Dom",
               "price2": "750",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20557/a9b47628d323fd75cef10699f7caaf67.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20557/a9b47628d323fd75cef10699f7caaf67.jpg",
               "tribuna3": "West Area - L, M, N, P - Asiento libre - Vie, Sáb & Dom",
               "price3": "350",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/11004/66055ec38894d06aad4c00f8350d277e.jpg"
-            },
-          },
-          "date": "2023-09-24",
-          "time": "05:00:00Z",
-          "FirstPractice": {
-            "date": "2023-09-22",
-            "time": "02:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-09-22",
-            "time": "06:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-09-23",
-            "time": "02:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-09-23",
-            "time": "06:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "17",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Qatar_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Catar",
           "raceName": "Qatar Grand Prix",
           "Circuit": {
             "circuitId": "losail",
@@ -655,40 +367,22 @@
               "country": "Qatar"
             },
             "Values": {
-              "tribuna1": "Lusail Lounge add-on - Vie, Sáb & Dom",
+             "tribuna1": "Lusail Lounge add-on - Vie, Sáb & Dom",
               "price1": "690",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/20838/7d24a6059701c9ec5fe8765e2440bb06.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/20838/7d24a6059701c9ec5fe8765e2440bb06.jpg",
               "tribuna2": "Tribuna Principal - Vie, Sáb & Dom",
               "price2": "580",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/16887/8d7637bd3af06f0407fd691dd6b67318.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/16887/8d7637bd3af06f0407fd691dd6b67318.jpg",
               "tribuna3": "Tribuna T2 - Vie, Sáb & Dom",
               "price3": "350",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/20747/6831126523566dae85fc0d245588d7e8.jpg"
-            },
-          },
-          "date": "2023-10-08",
-          "time": "14:00:00Z",
-          "FirstPractice": {
-            "date": "2023-10-06",
-            "time": "10:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-10-06",
-            "time": "14:00:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-10-07",
-            "time": "10:30:00Z"
-          },
-          "Sprint": {
-            "date": "2023-10-07",
-            "time": "14:30:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "18",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_United_States_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_los_Estados_Unidos",
           "raceName": "United States Grand Prix",
           "Circuit": {
             "circuitId": "americas",
@@ -701,38 +395,20 @@
             "Values": {
               "tribuna1": "Tribuna Turn 1 - Baja - Vie, Sáb & Dom",
               "price1": "900",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10495/50d2bf4b7f56ffe333f796c26495a3f8.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10495/50d2bf4b7f56ffe333f796c26495a3f8.jpg",
               "tribuna2": "Tribuna Turn 4 - Baja - Vie, Sáb & Dom",
               "price2": "800",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10535/2f6b2451a4ae7f06ad74c11e91367cd4.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10535/2f6b2451a4ae7f06ad74c11e91367cd4.jpg",
               "tribuna3": "Tribuna Turn 6 - Alta - Vie, Sáb & Dom",
               "price3": "650",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/18687/5af0452a64c8421774af7288ebad7f26.jpg"
-            },
-          },
-          "date": "2023-10-22",
-          "time": "19:00:00Z",
-          "FirstPractice": {
-            "date": "2023-10-20",
-            "time": "17:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-10-20",
-            "time": "21:00:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-10-21",
-            "time": "18:00:00Z"
-          },
-          "Sprint": {
-            "date": "2023-10-21",
-            "time": "22:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "19",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Mexico_City_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_M%C3%A9xico",
           "raceName": "Mexico City Grand Prix",
           "Circuit": {
             "circuitId": "rodriguez",
@@ -745,38 +421,20 @@
             "Values": {
               "tribuna1": "Tribuna Principal + Speed Lounge Package - Vie, Sáb & Dom",
               "price1": "1200",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/432ab43a447338202d8e16c6ab6c8b73.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/432ab43a447338202d8e16c6ab6c8b73.jpg",
               "tribuna2": "Tribuna Principal - Vie, Sáb & Dom",
               "price2": "900",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/f16f6f4746e589759c1390eecb55141b.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/f16f6f4746e589759c1390eecb55141b.jpg",
               "tribuna3": "Zona Verde - Vie, Sáb & Dom",
               "price3": "650",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/06238b57c36301851bb10027d8934f65.jpg"
-            },
-          },
-          "date": "2023-10-29",
-          "time": "20:00:00Z",
-          "FirstPractice": {
-            "date": "2023-10-27",
-            "time": "18:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-10-27",
-            "time": "22:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-10-28",
-            "time": "17:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-10-28",
-            "time": "21:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "20",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_S%C3%A3o_Paulo_Grand_Prix",
+            "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Brasil",
           "raceName": "São Paulo Grand Prix",
           "Circuit": {
             "circuitId": "interlagos",
@@ -789,38 +447,20 @@
             "Values": {
               "tribuna1": "Orange Tree Club - Vie, Sáb & Dom",
               "price1": "1200",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/12007/d9a481376993843f4ffe7cc5dd3127f7.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/12007/d9a481376993843f4ffe7cc5dd3127f7.jpg",
               "tribuna2": "Tribuna H - Vie, Sáb & Dom",
               "price2": "900",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/16847/7cf43338de33b36b2c52c388279135bb.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/16847/7cf43338de33b36b2c52c388279135bb.jpg",
               "tribuna3": "Tribuna R + NFT - Vie, Sáb & Dom",
               "price3": "650",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/20627/d03378aa7895abdc3d41e0f1d9b88308.jpg"
-            },
-          },
-          "date": "2023-11-05",
-          "time": "17:00:00Z",
-          "FirstPractice": {
-            "date": "2023-11-03",
-            "time": "14:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-11-03",
-            "time": "18:00:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-11-04",
-            "time": "14:30:00Z"
-          },
-          "Sprint": {
-            "date": "2023-11-04",
-            "time": "18:30:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "21",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Las_Vegas_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Las_Vegas",
           "raceName": "Las Vegas Grand Prix",
           "Circuit": {
             "circuitId": "vegas",
@@ -833,35 +473,17 @@
             "Values": {
               "tribuna1": "SG1 - Vie, Sáb & Dom",
               "price1": "1300",
-              "img1": "https://codigopoker.com/wp-content/uploads/2022/12/f1-caesars.png"
+              "img1": "https://codigopoker.com/wp-content/uploads/2022/12/f1-caesars.png",
               "tribuna2": "SG2 - Vie, Sáb & Dom",
               "price2": "900",
               "img2": "https://sportsbase.io/images/gpfans/copy_1200x800/dd60054e7d9fc8c00199f6de57e6453631e5aabe.jpg"
-            },
-          },
-          "date": "2023-11-19",
-          "time": "06:00:00Z",
-          "FirstPractice": {
-            "date": "2023-11-17",
-            "time": "04:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-11-17",
-            "time": "08:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-11-18",
-            "time": "04:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-11-18",
-            "time": "08:00:00Z"
-          },
+            }
+          }
         },
         {
           "season": "2023",
           "round": "22",
-          "url": "https:\/\/en.wikipedia.org\/wiki\/2023_Abu_Dhabi_Grand_Prix",
+          "url": "https://es.wikipedia.org/wiki/Gran_Premio_de_Abu_Dabi",
           "raceName": "Abu Dhabi Grand Prix",
           "Circuit": {
             "circuitId": "yas_marina",
@@ -874,35 +496,17 @@
             "Values": {
               "tribuna1": "Tribuna Marina - Orange Zone - Vie, Sáb & Dom",
               "price1": "650",
-              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/9715/75c771f76e56cff4769c37fd5f708005.jpg"
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/9715/75c771f76e56cff4769c37fd5f708005.jpg",
               "tribuna2": "West Social Club - Vie, Sáb & Dom",
               "price2": "830",
-              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/19687/23b9e8de6c404b3a01bd47f8961014be.jpg"
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/19687/23b9e8de6c404b3a01bd47f8961014be.jpg",
               "tribuna3": "North Straight Premium - Vie, Sáb & Dom",
               "price3": "950",
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/21408/a5553a27b2c4d61ed9aa7fa706daba70.jpg"
-            },
-          },
-          "date": "2023-11-26",
-          "time": "13:00:00Z",
-          "FirstPractice": {
-            "date": "2023-11-24",
-            "time": "09:30:00Z"
-          },
-          "SecondPractice": {
-            "date": "2023-11-24",
-            "time": "13:00:00Z"
-          },
-          "ThirdPractice": {
-            "date": "2023-11-25",
-            "time": "10:30:00Z"
-          },
-          "Qualifying": {
-            "date": "2023-11-25",
-            "time": "14:00:00Z"
-          },
-        },
+            }
+          }
+        }
       ]
-    },
-  },
+    }
+  }
 }
