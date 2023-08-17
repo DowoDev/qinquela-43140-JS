@@ -479,9 +479,15 @@
               "country": "Países Bajos"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Tribuna Arena 1 - Sáb & Dom",
+              "price1": "635,00",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11307/91fc76b366d362984062af7398b9fc89.jpg"
+              "tribuna2": "Tribuna Eastside 3 - Sáb & Dom",
+              "price2": "635,00",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11397/75d8df42de46960d320929dfc0cd93af.jpg"
+              "tribuna3": "Ben Pon 1 - Vie, Sáb & Dom",
+              "price3": "685,00",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/20357/8b2c8c522af16dae8b09eb4113931606.jpg"
             }
           },
           "date": "2023-08-27",
@@ -517,9 +523,15 @@
               "country": "Italia"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "(6b) Alta Velocita B - Vie, Sáb & Dom",
+              "price1": "650",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8665/1872993057d1e649ae6722cfe0c632fd.jpg"
+              "tribuna2": "(1) Centrale - Vie, Sáb & Dom",
+              "price2": "1250",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8615/49d1b8ca5f15b258b45e8bbd4da57745.jpg"
+              "tribuna3": "(16) Ascari - Vie, Sáb & Dom",
+              "price3": "875",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/20357/8b2c8c522af16dae8b09eb4113931606.jpg"
             }
           },
           "date": "2023-09-03",
@@ -555,9 +567,15 @@
               "country": "Singapur"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Pit Exit Grandstand - Vie, Sab & Dom",
+              "price1": "980",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20657/7e42ee4aac6753b8483b4bf86e4648ac.jpg"
+              "tribuna2": "Tribuna Pit - Front Rows - Vie, Sab & Dom",
+              "price2": "990",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20367/53ee9a3649cfe69d66badcd34eb9e42a.jpg"
+              "tribuna3": "Promenade - Vie, Sab & Dom",
+              "price3": "840",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20707/8d375f338cb11c879ab6fb6fb5866ae4.jpg"
             }
           },
           "date": "2023-09-17",
@@ -593,9 +611,15 @@
               "country": "Japón"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Tribuna G - Overpass - Vie, Sáb & Dom",
+              "price1": "650",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20537/1a6215b0a31158d4668e04d3c1159447.jpg"
+              "tribuna2": "Tribuna O - Temporary Stand - Vie, Sáb & Dom",
+              "price2": "750",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20557/a9b47628d323fd75cef10699f7caaf67.jpg"
+              "tribuna3": "West Area - L, M, N, P - Asiento libre - Vie, Sáb & Dom",
+              "price3": "350",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/11004/66055ec38894d06aad4c00f8350d277e.jpg"
             }
           },
           "date": "2023-09-24",
@@ -631,9 +655,15 @@
               "country": "Qatar"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Lusail Lounge add-on - Vie, Sáb & Dom",
+              "price1": "690",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/20838/7d24a6059701c9ec5fe8765e2440bb06.jpg"
+              "tribuna2": "Tribuna Principal - Vie, Sáb & Dom",
+              "price2": "580",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/16887/8d7637bd3af06f0407fd691dd6b67318.jpg"
+              "tribuna3": "Tribuna T2 - Vie, Sáb & Dom",
+              "price3": "350",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/20747/6831126523566dae85fc0d245588d7e8.jpg"
             }
           },
           "date": "2023-10-08",
@@ -669,9 +699,15 @@
               "country": "USA / Austin"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Tribuna Turn 1 - Baja - Vie, Sáb & Dom",
+              "price1": "900",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10495/50d2bf4b7f56ffe333f796c26495a3f8.jpg"
+              "tribuna2": "Tribuna Turn 4 - Baja - Vie, Sáb & Dom",
+              "price2": "800",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10535/2f6b2451a4ae7f06ad74c11e91367cd4.jpg"
+              "tribuna3": "Tribuna Turn 6 - Alta - Vie, Sáb & Dom",
+              "price3": "650",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/18687/5af0452a64c8421774af7288ebad7f26.jpg"
             }
           },
           "date": "2023-10-22",
