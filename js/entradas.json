@@ -23,9 +23,9 @@
               "country": "Bahrain"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -44,9 +44,9 @@
             }            
           },
           "Values": {
-            "price1": "200",
-            "price2": "300",
-            "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
           }
         },
         {
@@ -64,9 +64,9 @@
             }            
           },
           "Values": {
-            "price1": "200",
-            "price2": "300",
-            "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
           }
         },
         {
@@ -83,9 +83,9 @@
               "country": "Azerbaijan"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -103,9 +103,9 @@
               "country": "USA / Miami"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -123,9 +123,9 @@
               "country": "Mónaco"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -143,9 +143,9 @@
               "country": "España"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -163,9 +163,9 @@
               "country": "Canadá"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -183,9 +183,9 @@
               "country": "Austria"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -203,9 +203,9 @@
               "country": "Reino Unido"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -223,9 +223,9 @@
               "country": "Hungría"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -243,9 +243,9 @@
               "country": "Bélgica"
             },
             "Values": {
-              "price1": "200",
-              "price2": "300",
-              "price3": "500"
+              "price1": 200,
+              "price2": 300,
+              "price3": 500
             }
           }
         },
@@ -264,13 +264,13 @@
             },
             "Values": {
               "tribuna1": "Tribuna Arena 1 - Sáb & Dom",
-              "price1": "635,00",
+              "price1": 635,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11307/91fc76b366d362984062af7398b9fc89.jpg",
               "tribuna2": "Tribuna Eastside 3 - Sáb & Dom",
-              "price2": "635,00",
+              "price2": 635,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/11397/75d8df42de46960d320929dfc0cd93af.jpg",
               "tribuna3": "Ben Pon 1 - Vie, Sáb & Dom",
-              "price3": "685,00",
+              "price3": 685,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/20357/8b2c8c522af16dae8b09eb4113931606.jpg"
             }
           }
@@ -290,13 +290,13 @@
             },
             "Values": {
               "tribuna1": "(6b) Alta Velocita B - Vie, Sáb & Dom",
-              "price1": "650",
+              "price1": 650,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8665/1872993057d1e649ae6722cfe0c632fd.jpg",
               "tribuna2": "(1) Centrale - Vie, Sáb & Dom",
-              "price2": "1250",
+              "price2": 1250,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/51397/grandstands/8615/49d1b8ca5f15b258b45e8bbd4da57745.jpg",
               "tribuna3": "(16) Ascari - Vie, Sáb & Dom",
-              "price3": "875",
+              "price3": 875,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/42247/grandstands/20357/8b2c8c522af16dae8b09eb4113931606.jpg"
             }
           }
@@ -316,13 +316,13 @@
             },
             "Values": {
              "tribuna1": "Pit Exit Grandstand - Vie, Sab & Dom",
-              "price1": "980",
+              "price1": 980,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20657/7e42ee4aac6753b8483b4bf86e4648ac.jpg",
               "tribuna2": "Tribuna Pit - Front Rows - Vie, Sab & Dom",
-              "price2": "990",
+              "price2": 990,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20367/53ee9a3649cfe69d66badcd34eb9e42a.jpg",
               "tribuna3": "Promenade - Vie, Sab & Dom",
-              "price3": "840",
+              "price3": 840,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/51367/grandstands/20707/8d375f338cb11c879ab6fb6fb5866ae4.jpg"
             }
           }
@@ -342,13 +342,13 @@
             },
             "Values": {
               "tribuna1": "Tribuna G - Overpass - Vie, Sáb & Dom",
-              "price1": "650",
+              "price1": 650,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20537/1a6215b0a31158d4668e04d3c1159447.jpg",
               "tribuna2": "Tribuna O - Temporary Stand - Vie, Sáb & Dom",
-              "price2": "750",
+              "price2": 750,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/20557/a9b47628d323fd75cef10699f7caaf67.jpg",
               "tribuna3": "West Area - L, M, N, P - Asiento libre - Vie, Sáb & Dom",
-              "price3": "350",
+              "price3": 350,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/2814/grandstands/11004/66055ec38894d06aad4c00f8350d277e.jpg"
             }
           }
@@ -368,13 +368,13 @@
             },
             "Values": {
              "tribuna1": "Lusail Lounge add-on - Vie, Sáb & Dom",
-              "price1": "690",
+              "price1": 690,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/20838/7d24a6059701c9ec5fe8765e2440bb06.jpg",
               "tribuna2": "Tribuna Principal - Vie, Sáb & Dom",
-              "price2": "580",
+              "price2": 580,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/16887/8d7637bd3af06f0407fd691dd6b67318.jpg",
               "tribuna3": "Tribuna T2 - Vie, Sáb & Dom",
-              "price3": "350",
+              "price3": 350,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/56277/grandstands/20747/6831126523566dae85fc0d245588d7e8.jpg"
             }
           }
@@ -394,13 +394,13 @@
             },
             "Values": {
               "tribuna1": "Tribuna Turn 1 - Baja - Vie, Sáb & Dom",
-              "price1": "900",
+              "price1": 900,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10495/50d2bf4b7f56ffe333f796c26495a3f8.jpg",
               "tribuna2": "Tribuna Turn 4 - Baja - Vie, Sáb & Dom",
-              "price2": "800",
+              "price2": 800,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/10535/2f6b2451a4ae7f06ad74c11e91367cd4.jpg",
               "tribuna3": "Tribuna Turn 6 - Alta - Vie, Sáb & Dom",
-              "price3": "650",
+              "price3": 650,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/2902/grandstands/18687/5af0452a64c8421774af7288ebad7f26.jpg"
             }
           }
@@ -420,13 +420,13 @@
             },
             "Values": {
               "tribuna1": "Tribuna Principal + Speed Lounge Package - Vie, Sáb & Dom",
-              "price1": "1200",
+              "price1": 1200,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/432ab43a447338202d8e16c6ab6c8b73.jpg",
               "tribuna2": "Tribuna Principal - Vie, Sáb & Dom",
-              "price2": "900",
+              "price2": 900,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/f16f6f4746e589759c1390eecb55141b.jpg",
               "tribuna3": "Zona Verde - Vie, Sáb & Dom",
-              "price3": "650",
+              "price3": 650,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/06238b57c36301851bb10027d8934f65.jpg"
             }
           }
@@ -446,13 +446,13 @@
             },
             "Values": {
               "tribuna1": "Orange Tree Club - Vie, Sáb & Dom",
-              "price1": "1200",
+              "price1": 1200,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/12007/d9a481376993843f4ffe7cc5dd3127f7.jpg",
               "tribuna2": "Tribuna H - Vie, Sáb & Dom",
-              "price2": "900",
+              "price2": 900,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/16847/7cf43338de33b36b2c52c388279135bb.jpg",
               "tribuna3": "Tribuna R + NFT - Vie, Sáb & Dom",
-              "price3": "650",
+              "price3": 650,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/20627/d03378aa7895abdc3d41e0f1d9b88308.jpg"
             }
           }
@@ -472,10 +472,10 @@
             },
             "Values": {
               "tribuna1": "SG1 - Vie, Sáb & Dom",
-              "price1": "1300",
+              "price1": 1300,
               "img1": "https://codigopoker.com/wp-content/uploads/2022/12/f1-caesars.png",
               "tribuna2": "SG2 - Vie, Sáb & Dom",
-              "price2": "900",
+              "price2": 900,
               "img2": "https://sportsbase.io/images/gpfans/copy_1200x800/dd60054e7d9fc8c00199f6de57e6453631e5aabe.jpg"
             }
           }
@@ -495,13 +495,13 @@
             },
             "Values": {
               "tribuna1": "Tribuna Marina - Orange Zone - Vie, Sáb & Dom",
-              "price1": "650",
+              "price1": 650,
               "img1": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/9715/75c771f76e56cff4769c37fd5f708005.jpg",
               "tribuna2": "West Social Club - Vie, Sáb & Dom",
-              "price2": "830",
+              "price2": 830,
               "img2": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/19687/23b9e8de6c404b3a01bd47f8961014be.jpg",
               "tribuna3": "North Straight Premium - Vie, Sáb & Dom",
-              "price3": "950",
+              "price3": 950,
               "img3": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/21408/a5553a27b2c4d61ed9aa7fa706daba70.jpg"
             }
           }
