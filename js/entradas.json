@@ -743,9 +743,15 @@
               "country": "México"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Tribuna Principal + Speed Lounge Package - Vie, Sáb & Dom",
+              "price1": "1200",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/432ab43a447338202d8e16c6ab6c8b73.jpg"
+              "tribuna2": "Tribuna Principal - Vie, Sáb & Dom",
+              "price2": "900",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/f16f6f4746e589759c1390eecb55141b.jpg"
+              "tribuna3": "Zona Verde - Vie, Sáb & Dom",
+              "price3": "650",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/4911/grandstands/10175/06238b57c36301851bb10027d8934f65.jpg"
             }
           },
           "date": "2023-10-29",
@@ -781,9 +787,15 @@
               "country": "Brasil"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Orange Tree Club - Vie, Sáb & Dom",
+              "price1": "1200",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/12007/d9a481376993843f4ffe7cc5dd3127f7.jpg"
+              "tribuna2": "Tribuna H - Vie, Sáb & Dom",
+              "price2": "900",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/16847/7cf43338de33b36b2c52c388279135bb.jpg"
+              "tribuna3": "Tribuna R + NFT - Vie, Sáb & Dom",
+              "price3": "650",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/2907/grandstands/20627/d03378aa7895abdc3d41e0f1d9b88308.jpg"
             }
           },
           "date": "2023-11-05",
@@ -819,9 +831,12 @@
               "country": "USA / Las Vegas"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "SG1 - Vie, Sáb & Dom",
+              "price1": "1300",
+              "img1": "https://codigopoker.com/wp-content/uploads/2022/12/f1-caesars.png"
+              "tribuna2": "SG2 - Vie, Sáb & Dom",
+              "price2": "900",
+              "img2": "https://sportsbase.io/images/gpfans/copy_1200x800/dd60054e7d9fc8c00199f6de57e6453631e5aabe.jpg"
             }
           },
           "date": "2023-11-19",
@@ -857,9 +872,15 @@
               "country": "Emiratos Arabes"
             }
             "Values": {
-              "price1": "U$ 200",
-              "price2": "U$ 300",
-              "price3": "U$ 500"
+              "tribuna1": "Tribuna Marina - Orange Zone - Vie, Sáb & Dom",
+              "price1": "650",
+              "img1": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/9715/75c771f76e56cff4769c37fd5f708005.jpg"
+              "tribuna2": "West Social Club - Vie, Sáb & Dom",
+              "price2": "830",
+              "img2": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/19687/23b9e8de6c404b3a01bd47f8961014be.jpg"
+              "tribuna3": "North Straight Premium - Vie, Sáb & Dom",
+              "price3": "950",
+              "img3": "https://static.tickets-platform.com/cinematic/slideshow/51357/grandstands/21408/a5553a27b2c4d61ed9aa7fa706daba70.jpg"
             }
           },
           "date": "2023-11-26",
