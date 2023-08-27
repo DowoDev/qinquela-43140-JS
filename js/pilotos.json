@@ -512,6 +512,30 @@
           "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24.png",
           "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24n.png",
           "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/24h.png"
+        },
+        {
+          "driverId": "lawson",
+          "permanentNumber": 40,
+          "code": "LAW",
+          "wiki": "https://es.wikipedia.org/wiki/Liam_Lawson",
+          "givenName": "Liam",
+          "familyName": "Lawson",
+          "dateOfBirth": "2002-02-11",
+          "nationality": "Chinese",
+          "country":"New Zealander",
+          "countryPic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/New%20Zealander.png",
+          "grands_prix_entered": 1,
+          "world_championships": 0,
+          "podiums": 0,
+          "races_won":0,
+          "career_points": 0,
+          "season": "2023",
+          "teamid": "AT",
+          "name": "Alpha Tauri",
+          "logo": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/AT.png",
+          "pic": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/40.png",
+          "picNumber": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/40n.png",
+          "helmet": "https://raw.githubusercontent.com/DowoDev/qinquela-43140-JS/main/assets/40h.png"
         }
       ]
     }
